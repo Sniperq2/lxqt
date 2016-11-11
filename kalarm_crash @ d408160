@@ -1,0 +1,20 @@
+
+    [*]Expected behavior and actual behavior.
+    Expected: close without crash; 
+    Actual crash
+    
+    [*]Steps to reproduce the problem.
+    1. start lxqt
+    2. start kalarm
+    3. close kalarm
+    4. get crash
+    
+    [*] Specifications like the version of the project, operating system, or hardware.
+    Fedora 25 +updates 11.11.2016
+    KDE 5.8.1
+    Qt 5.7.0
+    KDE Frameworks 5.27.0
+    Kalarm 2.11.9-5ak
+    LXqt 0.11
+    
+    Backtrace  https://paste.kde.org/psknjvxzf
